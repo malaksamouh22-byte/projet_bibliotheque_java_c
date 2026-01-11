@@ -1,0 +1,29 @@
+# Java compiled
+*.class
+
+# C compiled
+*.exe
+*.o
+
+# Libraries (ne pas push un driver)
+*.jar
+
+# VS Code
+.vscode/
+
+# Fichiers générés
+*.csv
+recherche.csv
+filtre_annee.csv
+disponibles.csv
+empruntes.csv
+livres_java.txt
+
+# Sorties C
+c/output/
+
+# Python (si ce n'est pas nécessaire)
+*.py
+
+# Fichiers perso
+malak.txt
